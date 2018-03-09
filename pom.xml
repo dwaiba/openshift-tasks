@@ -62,11 +62,11 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://nexus:8081/content/repositories/releases</url>
+            <url>https://nexus3-jenkins.40.71.208.188.nip.io/content/repositories/releases</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://nexus:8081/content/repositories/snapshots</url>
+            <url>https://nexus3-jenkins.40.71.208.188.nip.io/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
